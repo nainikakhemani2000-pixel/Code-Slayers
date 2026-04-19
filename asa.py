@@ -1,0 +1,11 @@
+a = int(input("Enter first number:"))
+b = int(input("Enter second number:"))
+c = int(input("Enter third number:"))
+d = int(input("Enter fouth number:"))
+e = int(input("Enter fifth number:"))
+sum=a+b+c+d+e
+print("Sum =", sum)
+average = (a+b+c+d+e)/5
+print("average=",average)
+avg=sum/500*100
+print("avg=",avg)
